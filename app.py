@@ -1,4 +1,4 @@
-MESSAGE = "Hello from DEVELOP"
+MESSAGE = "Hello from FEATURE"
 
 def add(a, b):
     return a + b
